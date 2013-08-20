@@ -1,1 +1,3 @@
 This Java program is an example of assembling packets using the Java Collections Framework. A TreeMap is used here.
+
+The implementation is based on interfaces provided by another author, but are not included in this project example.
